@@ -58,7 +58,7 @@ Python, you can write all the Python things you want inside a SwagScript file. I
 
 You can import any Python module by using the `gimme` statement:
 
-    `gimme module bro`
+    gimme module bro
 
 It works with "Python's batteries" but of course with any `.py` files.
 
